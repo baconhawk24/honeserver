@@ -12,8 +12,8 @@ on:
 
 jobs:
 - new
-  build:
-  - 1.12
+  build: 
+  -m build --version    
     runs-on: ubuntu-latest
 
     steps:
