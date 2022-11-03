@@ -69,5 +69,16 @@ jobs:
    
    variable_name = datainput
 datain
+variable_name = color 
+color = "red" 
 
-print
+Print( " I dont like the color" + color
+ 
+ Name = "John"
+ age = "21"
+ test = "server home"
+ 
+ 
+ Print( " Who is" + name " and his age is" + age "he is testing a server named" + test
+ 
+
