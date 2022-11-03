@@ -61,3 +61,13 @@ jobs:
           app-name: 'Homeserverrecieptholder'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D40454972CB4B839C0F02369A31BD56 }}
+  
+  
+  
+   timeout-minutes: 6000
+   
+   
+   variable_name = datainput
+datain
+
+print
