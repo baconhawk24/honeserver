@@ -13,6 +13,7 @@ on:
 jobs:
 - new
   build:
+  - 1.12
     runs-on: ubuntu-latest
 
     steps:
